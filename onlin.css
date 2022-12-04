@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0px;
+}
+
+body{
+  margin-left: 50px;
+  padding: 150px;
+  margin-top: 150px;
+  font-weight: bold;
+}
+ul{
+    position: relative;
+    left: 30px;
+    padding: 30px;   
+}
+.reload{
+    padding: 5px;
+    cursor: pointer;
+    background: gray;
+    color: rebeccapurple ;
+}
+.hide{
+    display: none;
+}
