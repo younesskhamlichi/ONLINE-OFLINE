@@ -33,3 +33,4 @@ function offline(){
     ul.classList.remove('hide');
     reload.classList.remove('hide');
 }
+// reload.classList.remove('hide');
